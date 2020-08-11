@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **fikyair/fikyair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fikyair&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikyair)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📘 个人网站: [boom](https://www.xueshiming.cn/)
+
+![visitor](https://visitor-badge.glitch.me/badge?page_id=fikyair.fikyair)
+
