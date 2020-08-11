@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fikyair&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikyair)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📘 个人网站: [boom](https://www.xueshiming.cn/)
+- 📘 个人网站: [blog](https://www.xueshiming.cn)
+- 🌱 语雀: [博客](https://www.yuque.com)
+- 📖 知乎: [这里](https://www.zhihu.com)
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=fikyair.fikyair)
 
