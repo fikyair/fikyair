@@ -2,6 +2,7 @@
 <!--
 ### Hi there 👋
 **fikyair/fikyair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitor](https://visitor-badge.glitch.me/badge?page_id=fikyair.fikyair)
 
 Here are some ideas to get you started:
 
@@ -21,5 +22,5 @@ Here are some ideas to get you started:
 - 🌱 语雀: [博客](https://www.yuque.com)
 - 📖 知乎: [这里](https://www.zhihu.com)
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=fikyair.fikyair)
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=fikyair.fikyair)
 
