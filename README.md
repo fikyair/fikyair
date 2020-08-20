@@ -21,8 +21,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikyair)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fikyair&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikyair)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 📘 个人网站: [blog](https://www.xueshiming.cn)
 - 🌱 语雀: [博客](https://www.yuque.com)
