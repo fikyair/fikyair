@@ -20,6 +20,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://cn.vuejs.org/images/logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fikyair&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikyair)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,6 +31,6 @@
 - 📘 个人网站: [blog](https://www.xueshiming.cn)
 - 🌱 语雀: [博客](https://www.yuque.com)
 - 📖 知乎: [这里](https://www.zhihu.com)
-
+- 🍎 掘金: [here](https://juejin.cn/user/1116759542733015)
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=fikyair.fikyair)
 
