@@ -26,9 +26,6 @@
 <code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">Flutter</code>
 <code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">Electron</code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikyair&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fikyair&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🌱 语雀: [明明就](https://www.yuque.com/yunque-cj88s)
 - 📖 知乎: [明明就](https://www.zhihu.com/people/xue-shi-ming-16)
 - 🍎 掘金: [fikyair](https://juejin.cn/user/1116759542733015)
