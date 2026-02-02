@@ -28,6 +28,8 @@
 - 🌱 语雀: [明明就](https://www.yuque.com/yunque-cj88s)
 - 📖 知乎: [明明就](https://www.zhihu.com/people/xue-shi-ming-16)
 - 🍎 掘金: [fikyair](https://juejin.cn/user/1116759542733015)
+
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=fikyair.fikyair)
 <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;">
 <picture>
  <source media="not all" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg" class="source-dark">
@@ -35,5 +37,4 @@
 </picture>
 </themed-picture>
 
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=fikyair.fikyair)
 
