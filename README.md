@@ -25,10 +25,15 @@
 <code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">Dart</code>
 <code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">Flutter</code>
 <code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">Electron</code>
-
 - 🌱 语雀: [明明就](https://www.yuque.com/yunque-cj88s)
 - 📖 知乎: [明明就](https://www.zhihu.com/people/xue-shi-ming-16)
 - 🍎 掘金: [fikyair](https://juejin.cn/user/1116759542733015)
+<themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;">
+<picture>
+ <source media="not all" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg" class="source-dark">
+ <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg" style="visibility: visible; max-width: 100%;">
+</picture>
+</themed-picture>
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=fikyair.fikyair)
 
